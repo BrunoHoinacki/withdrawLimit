@@ -9,7 +9,7 @@ Utilizamos programação orientada a objeto, classes abstratas, uso de excessõe
 
 Desenvolvido em JavaSE Versão 17.
 
-IDE utilizada para desenvolvimento Eclipse.
+IDE utilizada para desenvolvimento IntelliJ.
 
 # Autor
 
