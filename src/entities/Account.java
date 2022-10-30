@@ -42,7 +42,7 @@ public class Account {
         return withdrawLimit;
     }
 
-    public void deposit(double amount){
+    public void deposit(double amount) {
         balance += amount;
     }
 
